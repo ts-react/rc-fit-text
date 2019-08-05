@@ -2,6 +2,8 @@
 
 > 重写下[react-fittext](https://github.com/gianu/react-fittext)组件
 
+**项目已收录至[ant-design-plus](https://github.com/alitajs/ant-design-plus)**
+
 ## 使用
 
 * 安装依赖
